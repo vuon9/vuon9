@@ -1,6 +1,6 @@
 ![from Christmas Story movie](https://media.giphy.com/media/xUPOqtMLKm2Nwt2wXS/giphy.gif)
 
-#### My favorite fonts for programming are:
+#### My favorite fonts:
 
 ##### For code editor
 - Cascadia Code PL
