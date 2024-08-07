@@ -10,9 +10,7 @@ For several years, I've been drawn to the idea of contributing to open-source pr
 Relying on these tools daily has deepened my appreciation for the community. 
 I believe that by sharing my knowledge and skills, I can both grow as a developer and give back to the ecosystem that has supported my work.
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=vuon9&show_icons=true&show=prs_merged" alt="Vuong's GitHub stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=vuon9&show_icons=true&show=prs_merged" alt="Vuong's GitHub stats" />
 
 More than a serious introduction, this is my favorite scene in <b><a href="https://www.imdb.com/title/tt0085334">A Christmas Story</a></b> movie. 
 I don't know why I love it!
