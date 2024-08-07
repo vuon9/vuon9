@@ -6,8 +6,7 @@ My toolbelt includes:
 - Databases: MySQL, MariaDB, PostgreSQL
 - HTML/CSS/JS
 
-For several years, I've been drawn to the idea of contributing to open-source projects. 
-Relying on these tools daily has deepened my appreciation for the community. 
+For several years, I've been drawn to the idea of contributing to open-source projects. Relying on these tools daily has deepened my appreciation for the community. 
 I believe that by sharing my knowledge and skills, I can both grow as a developer and give back to the ecosystem that has supported my work.
 
 <img src="https://github-readme-stats.vercel.app/api?username=vuon9&show_icons=true&show=prs_merged" alt="Vuong's GitHub stats" />
