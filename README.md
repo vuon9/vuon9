@@ -3,6 +3,8 @@ From the early days of HTML5, I've been immersed in the world of web development
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuon9&layout=compact" alt="" />
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vuon9)](https://github.com/LordDashMe/github-contribution-stats/)
+
 For several years, I've been drawn to the idea of contributing to open-source projects. Relying on these tools daily has deepened my appreciation for the community. 
 I believe that by sharing my knowledge and skills, I can both grow as a developer and give back to the ecosystem that has supported my work.
 
