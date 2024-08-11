@@ -1,4 +1,4 @@
-I'm Vuong (vɨəŋ˧˧ / v-oo-aw-ng), a software engineer with a decade-long passion for software development experiences. 
+I'm Vuong (vɨəŋ˧˧ / v-oo-aw-ng), a software engineer. 
 From the early days of HTML5, I've been immersed in the world of web development, building everything from interactive front-ends to robust back-ends. 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuon9&layout=compact" alt="" />
