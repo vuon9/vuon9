@@ -5,15 +5,14 @@
 
 I'm a software engineer based in HCM city, Vietnam. I enjoy coffee, comedic entertainment, and playing Dota 2
 
-| 📆  | 🕖  |
-|---|---|
-| ![Metrics](/github-metrics.svg)  | ![Recent activities](metrics.plugin.activity.svg) |
+<picture>
+ <img src="/github-metrics.svg" alt="Metrics" width="600">
+</picture>
 
-<p>
- <picture>
-  <img src="/metrics.plugin.reactions.svg" alt="Recent activities" width="420">
- </picture>
-</p>
+
+<picture>
+ <img src="/metrics.plugin.reactions.svg" alt="Recent activities" width="420">
+</picture>
 
 ---
 This profile isn't related to my current work, but for connecting with OSS world
