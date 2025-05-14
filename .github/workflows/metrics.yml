@@ -22,7 +22,9 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header
+          extras_js: |
+            document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
       
@@ -35,14 +37,4 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
-  
-      - name: Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 7
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+
