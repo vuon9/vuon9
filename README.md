@@ -5,14 +5,9 @@
 
 I'm a software engineer based in HCM city, Vietnam. I enjoy coffee, comedic entertainment, and playing Dota 2
 
-<p>
- <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
- </picture>
- <picture>
-  <img src="/metrics.plugin.activity.svg" alt="Metrics">
- </picture>
-</p>
+| 📆  | 🕖  |
+|---|---|
+| ![Metrics](/github-metrics.svg)  | ![Recent activities](metrics.plugin.activity.svg) |
 
 <p>
  <picture>
