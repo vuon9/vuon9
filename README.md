@@ -14,9 +14,9 @@ I'm a software engineer based in HCM city, Vietnam. I enjoy coffee, comedic ente
  </picture>
 </p>
 
-<p align="center">
+<p>
  <picture>
-  <img src="/metrics.plugin.reactions.svg" alt="Recent activities" width="500">
+  <img src="/metrics.plugin.reactions.svg" alt="Recent activities" width="420">
  </picture>
 </p>
 
