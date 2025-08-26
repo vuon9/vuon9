@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-![](https://komarev.com/ghpvc/?username=vuon9) ![](https://img.shields.io/github/followers/vuon9?color=green&logo=github)
+![](https://www.codewars.com/users/vuon9/badges/small) ![](https://komarev.com/ghpvc/?username=vuon9)
 
 
 I'm a software engineer based in HCM city, Vietnam.
