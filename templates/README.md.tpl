@@ -13,7 +13,6 @@
 {{- end}}
 
 #### 📝 Latest blog posts
-
 {{range rss "https://dev.to/feed/vuong" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
