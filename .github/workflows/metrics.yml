@@ -29,4 +29,3 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_gists: yes
           plugin_notable: yes
-          plugin_reactions: yes

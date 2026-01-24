@@ -23,4 +23,12 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-![](https://github-readme-stats.vercel.app/api?username=vuon9&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+### My overall stats
+
+<picture>
+ <img src="/build/github-metrics.svg" alt="Metrics" width="600">
+</picture>
+
+![](https://www.codewars.com/users/vuon9/badges/small) ![](https://komarev.com/ghpvc/?username=vuon9)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N518O1R3) 
