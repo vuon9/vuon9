@@ -9,11 +9,6 @@
 - [vuon9/dev-toolbox](https://github.com/vuon9/dev-toolbox) - [WIP] Dev toolbox with Wails. This tool is buggy, don&#39;t use yet. (today)
 - [vuon9/pwgen-go](https://github.com/vuon9/pwgen-go) - Random password generator practice in Go (6 days ago)
 - [vuon9/play-with-go](https://github.com/vuon9/play-with-go) - Draft version of things I played with Go (1 month ago)
-- [vuon9/image-background-remover](https://github.com/vuon9/image-background-remover) - Simple tool uses for removing background of images. It supports both manual/AI modes. (1 month ago)
-- [vuon9/mcp-play](https://github.com/vuon9/mcp-play) - My collection of MCP tools for demo purpose (2 months ago)
-- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS (2 months ago)
-- [vuon9/postmanizer](https://github.com/vuon9/postmanizer) - A fast CLI tool to merge and convert HTTPie and Postman collections into Postman Collection v2.1.0 format. (4 months ago)
-- [vuon9/go-project-structure](https://github.com/vuon9/go-project-structure) - A generic project structure for Go projects. Based on an idea of 3PL tracking system. (6 months ago)
 
 #### 🚀 Latest releases I've contributed to
 
