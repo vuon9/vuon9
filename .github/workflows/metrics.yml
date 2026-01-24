@@ -21,7 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           base: header
           extras_js: |
             document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
