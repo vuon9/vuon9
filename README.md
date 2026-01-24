@@ -17,7 +17,6 @@
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 3 weeks ago)
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.1.0-20096](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.1.0-20096), 1 month ago)
 - [vuon9/postmanizer](https://github.com/vuon9/postmanizer) ([v1.4.2](https://github.com/vuon9/postmanizer/releases/tag/v1.4.2), 4 months ago)
-- [vuon9/pwgen-go](https://github.com/vuon9/pwgen-go) ([v0.0.6](https://github.com/vuon9/pwgen-go/releases/tag/v0.0.6), 4 years ago)
 
 #### 📝 Latest blog posts
 
