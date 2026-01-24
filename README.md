@@ -33,7 +33,6 @@
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 3 weeks ago) - VSCode extension which helps transform data into bulk operation with template. 
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.1.0-20096](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.1.0-20096), 1 month ago) - MySQL/MariaDB database management for macOS
 - [vuon9/postmanizer](https://github.com/vuon9/postmanizer) ([v1.4.2](https://github.com/vuon9/postmanizer/releases/tag/v1.4.2), 4 months ago) - A fast CLI tool to merge and convert HTTPie and Postman collections into Postman Collection v2.1.0 format.
-- [vuon9/pwgen-go](https://github.com/vuon9/pwgen-go) ([v0.0.6](https://github.com/vuon9/pwgen-go/releases/tag/v0.0.6), 4 years ago) - Random password generator practice in Go
 
 #### ⭐ Recent Stars
 
@@ -42,21 +41,6 @@
 - [nvh0412/lazykafka](https://github.com/nvh0412/lazykafka) -  (4 days ago)
 - [sozercan/kaset](https://github.com/sozercan/kaset) - 📻 The missing YouTube Music macOS app (2 weeks ago)
 - [doctrine/DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - Symfony integration for the doctrine/data-fixtures library  (3 weeks ago)
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (4 weeks ago)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (4 weeks ago)
-- [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights (1 month ago)
-- [gemini-cli-extensions/mysql](https://github.com/gemini-cli-extensions/mysql) -  (1 month ago)
-- [gaearon/rscexplorer](https://github.com/gaearon/rscexplorer) - A tool for people curious about the React Server Components protocol (1 month ago)
-
-### My overall stats
-
-![](https://www.codewars.com/users/vuon9/badges/small) ![](https://komarev.com/ghpvc/?username=vuon9)
-
-<picture>
- <img src="github-metrics.svg" alt="Metrics" width="600">
-</picture>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N518O1R3) 
 
 ---
 
