@@ -1,11 +1,12 @@
 name: Update README
 
 on:
-  workflow_dispatch:
-  push:
-    branches: [ "main" ]
+  # Schedule daily updates
   schedule:
-    - cron: '0 0 */1 * *'
+  - cron: "0 0 * * 1"
+
+  # (optional) Run workflow manually
+  workflow_dispatch:
 
 permissions:
   contents: write
