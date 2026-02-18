@@ -4,7 +4,7 @@
 
 #### 👷 What I'm currently working on
 
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential software development tools for everyday tasks. Features are still in-progress and buggy. (6 days ago)
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential software development tools for everyday tasks. Features are still in-progress and buggy. (1 week ago)
 - [vuon9/dotfiles](https://github.com/vuon9/dotfiles) - My dotfiles (1 week ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) - VSCode extension which helps transform data into bulk operation with template. (3 weeks ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (3 weeks ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Recent Stars
 
-- [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (1 day ago)
-- [samurmaykrr/zqlz](https://github.com/samurmaykrr/zqlz) - THE Editor. (1 day ago)
-- [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions (3 days ago)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw (3 days ago)
-- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. (6 days ago)
+- [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (2 days ago)
+- [samurmaykrr/zqlz](https://github.com/samurmaykrr/zqlz) - THE Editor. (2 days ago)
+- [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions (4 days ago)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (4 days ago)
+- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. (1 week ago)
 
 ---
 
