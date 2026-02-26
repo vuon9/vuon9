@@ -12,11 +12,11 @@
 
 #### 🚀 Recent releases I've contributed to
 
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.22.0-beta](https://github.com/conductor-oss/conductor/releases/tag/v3.22.0-beta), 6 days ago)
+- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20097](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20097), 1 day ago)
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.22.0-beta](https://github.com/conductor-oss/conductor/releases/tag/v3.22.0-beta), 1 week ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.9.4](https://github.com/vuon9/devtoolbox/releases/tag/v0.9.4), 2 weeks ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.2.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.2.2), 1 month ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 1 month ago)
-- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.1.0-20096](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.1.0-20096), 2 months ago)
 
 #### 📝 Recent blog posts
 
@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions. (4 days ago)
+- [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions. (5 days ago)
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (1 week ago)
 - [samurmaykrr/zqlz](https://github.com/samurmaykrr/zqlz) - THE Editor. (1 week ago)
 - [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions (1 week ago)
