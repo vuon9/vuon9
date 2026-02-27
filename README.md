@@ -5,14 +5,14 @@
 #### 👷 What I'm currently working on
 
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential software development tools for everyday tasks. Features are still in-progress and buggy. (2 weeks ago)
-- [vuon9/dotfiles](https://github.com/vuon9/dotfiles) - My dotfiles (2 weeks ago)
+- [vuon9/dotfiles](https://github.com/vuon9/dotfiles) - My dotfiles (3 weeks ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) - VSCode extension which helps transform data into bulk operation with template. (1 month ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 month ago)
 - [vuon9/pwgen-go](https://github.com/vuon9/pwgen-go) - Random password generator practice in Go (1 month ago)
 
 #### 🚀 Recent releases I've contributed to
 
-- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20097](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20097), 1 day ago)
+- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20097](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20097), 2 days ago)
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.22.0-beta](https://github.com/conductor-oss/conductor/releases/tag/v3.22.0-beta), 1 week ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.9.4](https://github.com/vuon9/devtoolbox/releases/tag/v0.9.4), 2 weeks ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.2.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.2.2), 1 month ago)
@@ -28,11 +28,11 @@
 
 #### ⭐ Recent Stars
 
-- [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions. (5 days ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (1 day ago)
+- [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions. (6 days ago)
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (1 week ago)
 - [samurmaykrr/zqlz](https://github.com/samurmaykrr/zqlz) - THE Editor. (1 week ago)
 - [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions (1 week ago)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 week ago)
 
 ---
 
