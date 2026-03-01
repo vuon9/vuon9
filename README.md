@@ -12,9 +12,9 @@
 
 #### 🚀 Recent releases I've contributed to
 
-- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20099](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20099), 1 day ago)
+- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20099](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20099), 2 days ago)
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.22.0-beta](https://github.com/conductor-oss/conductor/releases/tag/v3.22.0-beta), 1 week ago)
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.9.4](https://github.com/vuon9/devtoolbox/releases/tag/v0.9.4), 2 weeks ago)
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.9.4](https://github.com/vuon9/devtoolbox/releases/tag/v0.9.4), 3 weeks ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.2.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.2.2), 1 month ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### ⭐ Recent Stars
 
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (2 days ago)
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click. (1 day ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (3 days ago)
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions. (1 week ago)
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (1 week ago)
 - [samurmaykrr/zqlz](https://github.com/samurmaykrr/zqlz) - THE Editor. (1 week ago)
-- [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions (2 weeks ago)
 
 ---
 
