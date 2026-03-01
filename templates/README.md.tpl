@@ -12,13 +12,8 @@
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
-#### 📝 Recent blog posts
-{{range rss "https://dev.to/feed/vuong" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### ⭐ Recent Stars
-{{range recentStars 5}}
+{{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
