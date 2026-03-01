@@ -4,7 +4,7 @@
 
 #### 👷 What I'm currently working on
 
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential software development tools for everyday tasks. Features are still in-progress and buggy. (2 weeks ago)
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential software development tools for everyday tasks. Features are still in-progress and buggy. (today)
 - [vuon9/dotfiles](https://github.com/vuon9/dotfiles) - My dotfiles (3 weeks ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) - VSCode extension which helps transform data into bulk operation with template. (1 month ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 month ago)
@@ -18,21 +18,18 @@
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.2.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.2.2), 1 month ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 1 month ago)
 
-#### 📝 Recent blog posts
-
-- [VSCode: Gaining back some of screen space by customizing the line number column](https://dev.to/vuong/vscode-tips-gain-spaces-by-customize-the-line-numbers-column-1o9g) (4 months ago)
-- [Reading Hacker News weekly posts with GitHub CLI](https://dev.to/vuong/reading-hacker-news-from-terminal-2gdd) (8 months ago)
-- [Docker: Allow SSH tunnelling for MySQL](https://dev.to/vuong/allow-ssh-tunnelling-for-docker-mysql-359d) (10 months ago)
-- [Use Finicky to direct urls to multiple Chrome profiles at workplace](https://dev.to/vuong/use-finicky-to-direct-urls-to-multiple-chrome-profiles-at-workplace-1b82) (2 years ago)
-- [VSCode: Show PHP code coverage with PHPUnit](https://dev.to/vuong/phpunit-with-vscode-45pp) (2 years ago)
-
 #### ⭐ Recent Stars
 
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM (today)
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click. (1 day ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (3 days ago)
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions. (1 week ago)
 - [zai-org/GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering (1 week ago)
 - [samurmaykrr/zqlz](https://github.com/samurmaykrr/zqlz) - THE Editor. (1 week ago)
+- [google-gemini/gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions (2 weeks ago)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (2 weeks ago)
+- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. (2 weeks ago)
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (2 weeks ago)
 
 ---
 
