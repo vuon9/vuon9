@@ -4,7 +4,7 @@
 
 #### 👷 What I'm currently working on
 
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential software development tools for everyday tasks. Features are still in-progress and buggy. (4 days ago)
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential software development tools for everyday tasks. Features are still in-progress and buggy. (5 days ago)
 - [vuon9/dotfiles](https://github.com/vuon9/dotfiles) - My dotfiles (1 month ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) - VSCode extension which helps transform data into bulk operation with template. (1 month ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 month ago)
@@ -12,7 +12,7 @@
 
 #### 🚀 Recent releases I've contributed to
 
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.22.1](https://github.com/conductor-oss/conductor/releases/tag/v3.22.1), 1 day ago)
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.22.2](https://github.com/conductor-oss/conductor/releases/tag/v3.22.2), 1 day ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v250301.1](https://github.com/vuon9/devtoolbox/releases/tag/v250301.1), 1 week ago)
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20099](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20099), 1 week ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.2.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.2.2), 1 month ago)
