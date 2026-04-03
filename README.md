@@ -4,23 +4,23 @@
 
 #### 👷 What I'm currently working on
 
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (4 days ago)
-- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (6 days ago)
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (5 days ago)
+- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 week ago)
 - [vuon9/dotfiles](https://github.com/vuon9/dotfiles) - My dotfiles (1 month ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) - VSCode extension which helps transform data into bulk operation with template. (2 months ago)
 - [vuon9/pwgen-go](https://github.com/vuon9/pwgen-go) - Random password generator practice in Go (2 months ago)
 
 #### 🚀 Recent releases I've contributed to
 
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.3.0.rc4](https://github.com/conductor-oss/conductor/releases/tag/v3.3.0.rc4), 2 days ago)
-- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.11.3](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.11.3), 6 days ago)
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.3.0.rc5](https://github.com/conductor-oss/conductor/releases/tag/v3.3.0.rc5), 1 day ago)
+- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.11.3](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.11.3), 1 week ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v250301.1](https://github.com/vuon9/devtoolbox/releases/tag/v250301.1), 1 month ago)
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20099](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20099), 1 month ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 3 months ago)
 
 #### ⭐ Recent Stars
 
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (5 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (6 days ago)
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 week ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 week ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (1 week ago)
