@@ -12,7 +12,7 @@
 
 #### 🚀 Recent releases I've contributed to
 
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.3.0.rc6](https://github.com/conductor-oss/conductor/releases/tag/v3.3.0.rc6), 1 day ago)
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.3.0.rc6](https://github.com/conductor-oss/conductor/releases/tag/v3.3.0.rc6), 2 days ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.11.3](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.11.3), 1 week ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v250301.1](https://github.com/vuon9/devtoolbox/releases/tag/v250301.1), 1 month ago)
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20099](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20099), 1 month ago)
