@@ -12,7 +12,7 @@
 
 #### 🚀 Recent releases I've contributed to
 
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.3.0.rc8](https://github.com/conductor-oss/conductor/releases/tag/v3.3.0.rc8), 2 days ago)
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) ([v3.3.0.rc8](https://github.com/conductor-oss/conductor/releases/tag/v3.3.0.rc8), 3 days ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.11.3](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.11.3), 1 week ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v250301.1](https://github.com/vuon9/devtoolbox/releases/tag/v250301.1), 1 month ago)
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.0-20099](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.0-20099), 1 month ago)
@@ -20,14 +20,14 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 days ago)
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (2 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 days ago)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. (3 days ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (1 week ago)
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents (2 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 weeks ago)
 - [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - 🐈 A collection of LLM inference providers and models  (2 weeks ago)
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS (2 weeks ago)
-- [avivsinai/jenkins-cli](https://github.com/avivsinai/jenkins-cli) - GitHub-style CLI for Jenkins — manage contexts, runs, logs, and admin tasks from your terminal. (2 weeks ago)
+- [avivsinai/jenkins-cli](https://github.com/avivsinai/jenkins-cli) - GitHub-style CLI for Jenkins — manage contexts, runs, logs, and admin tasks from your terminal. (3 weeks ago)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100&#43; LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] (3 weeks ago)
 - [poteto/noodle](https://github.com/poteto/noodle) - Orchestrate agents using skills (1 month ago)
 
