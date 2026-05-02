@@ -17,8 +17,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 week ago)
-- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (2 weeks ago)
+- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 day ago)
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (2 weeks ago)
 - [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (3 weeks ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (1 month ago)
 - [vuon9/dotfiles](https://github.com/vuon9/dotfiles) - My dotfiles (2 months ago)
@@ -30,23 +30,23 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(main): release 1.12.1](https://github.com/vuon9/youtube-listen-mode/pull/47) on [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) (1 day ago)
+- [fix: remove 144p toggle, always enable quality switch, fix navigation races](https://github.com/vuon9/youtube-listen-mode/pull/46) on [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) (1 day ago)
 - [chore(main): release 1.12.0](https://github.com/vuon9/youtube-listen-mode/pull/45) on [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) (3 weeks ago)
 - [feat: add title keyword matching and keyboard shortcuts](https://github.com/vuon9/youtube-listen-mode/pull/44) on [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) (3 weeks ago)
 - [docs: Update README with existing &#39;headers&#39; option](https://github.com/nicobailon/pi-mcp-adapter/pull/39) on [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) (3 weeks ago)
-- [fix: command palette navigation and reduce window height](https://github.com/vuon9/devtoolbox/pull/67) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (1 month ago)
-- [Refactor UI to Tailwind CSS 4.0 and Radix UI](https://github.com/vuon9/devtoolbox/pull/60) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.11.7](https://github.com/imputnet/helium/releases/tag/0.11.7), 2 days ago) - Private, fast, and honest web browser
+- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.1](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.1), 1 day ago) - Chrome extension that turns any YouTube video into audio‑only mode
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.11.7](https://github.com/imputnet/helium/releases/tag/0.11.7), 3 days ago) - Private, fast, and honest web browser
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.1-20100](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.1-20100), 2 weeks ago) - MySQL/MariaDB database management for macOS
-- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.0](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.0), 3 weeks ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v250301.1](https://github.com/vuon9/devtoolbox/releases/tag/v250301.1), 2 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 4 months ago) - VSCode extension which helps transform data into bulk operation with template.
 
 #### ⭐ Recent Stars
 
-- [kitlangton/ghui](https://github.com/kitlangton/ghui) -  (today)
+- [kitlangton/ghui](https://github.com/kitlangton/ghui) -  (1 day ago)
 - [tkim90/fff-extension](https://github.com/tkim90/fff-extension) - IntelliJ-like CMD&#43;Shift&#43;F in Cursor / VSCode. (1 week ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (1 week ago)
 - [biomejs/biome-zed](https://github.com/biomejs/biome-zed) - Biome extension for Zed (1 week ago)
