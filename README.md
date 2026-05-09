@@ -17,11 +17,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (1 day ago)
-- [vuon9/likes](https://github.com/vuon9/likes) -  (1 day ago)
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (2 days ago)
+- [vuon9/likes](https://github.com/vuon9/likes) -  (2 days ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 week ago)
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (2 weeks ago)
-- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (4 weeks ago)
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (3 weeks ago)
+- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (1 month ago)
 - [vuon9/dotfiles](https://github.com/vuon9/dotfiles) - My dotfiles (3 months ago)
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) - VSCode extension which helps transform data into bulk operation with template. (3 months ago)
 - [vuon9/pwgen-go](https://github.com/vuon9/pwgen-go) - Random password generator practice in Go (3 months ago)
@@ -30,15 +30,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [test: add E2E tests for all 15 tools &#43; CI workflow](https://github.com/vuon9/devtoolbox/pull/72) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (2 days ago)
-- [Server-only mode &amp; hot reload for faster backend development](https://github.com/vuon9/devtoolbox/pull/71) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (2 days ago)
+- [test: add E2E tests for all 15 tools &#43; CI workflow](https://github.com/vuon9/devtoolbox/pull/72) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (3 days ago)
+- [Server-only mode &amp; hot reload for faster backend development](https://github.com/vuon9/devtoolbox/pull/71) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (3 days ago)
 - [chore(main): release 1.12.1](https://github.com/vuon9/youtube-listen-mode/pull/47) on [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) (1 week ago)
 - [fix: remove 144p toggle, always enable quality switch, fix navigation races](https://github.com/vuon9/youtube-listen-mode/pull/46) on [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) (1 week ago)
 - [chore(main): release 1.12.0](https://github.com/vuon9/youtube-listen-mode/pull/45) on [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) (4 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.12.1](https://github.com/imputnet/helium/releases/tag/0.12.1), 3 days ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.12.1](https://github.com/imputnet/helium/releases/tag/0.12.1), 4 days ago) - Private, fast, and honest web browser
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.1](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.1), 1 week ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.1-20100](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.1-20100), 3 weeks ago) - MySQL/MariaDB database management for macOS
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v250301.1](https://github.com/vuon9/devtoolbox/releases/tag/v250301.1), 2 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
@@ -46,10 +46,10 @@
 
 #### ⭐ Recent Stars
 
-- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp  (4 days ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (4 days ago)
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (4 days ago)
-- [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release. (4 days ago)
+- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp  (5 days ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (5 days ago)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (5 days ago)
+- [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release. (5 days ago)
 - [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI (1 week ago)
 
 ---
