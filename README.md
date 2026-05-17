@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (6 days ago)
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (1 week ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 week ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (4 weeks ago)
 - [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.12.3](https://github.com/imputnet/helium/releases/tag/0.12.3), 2 days ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.12.3](https://github.com/imputnet/helium/releases/tag/0.12.3), 3 days ago) - Private, fast, and honest web browser
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.2), 1 week ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.1-20100](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.1-20100), 1 month ago) - MySQL/MariaDB database management for macOS
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v250301.1](https://github.com/vuon9/devtoolbox/releases/tag/v250301.1), 2 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
@@ -36,11 +36,11 @@
 
 #### ⭐ Recent Stars
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (5 days ago)
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers (1 day ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (6 days ago)
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS (1 week ago)
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp  (1 week ago)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 week ago)
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (1 week ago)
 
 ---
 
