@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.12.3](https://github.com/imputnet/helium/releases/tag/0.12.3), 4 days ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.12.3](https://github.com/imputnet/helium/releases/tag/0.12.3), 5 days ago) - Private, fast, and honest web browser
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.2), 1 week ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.1-20100](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.1-20100), 1 month ago) - MySQL/MariaDB database management for macOS
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v250301.1](https://github.com/vuon9/devtoolbox/releases/tag/v250301.1), 2 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
@@ -36,8 +36,8 @@
 
 #### ⭐ Recent Stars
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (1 day ago)
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers (2 days ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic&#39;s Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. (2 days ago)
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers (3 days ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (1 week ago)
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS (1 week ago)
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp  (2 weeks ago)
