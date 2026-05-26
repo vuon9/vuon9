@@ -2,14 +2,6 @@
 
 ---
 
-#### 🌱 My latest projects
-
-- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - 
-- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents
-- [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) - VSCode extension which helps transform data into bulk operation with template.
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
-- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode
-
 #### 👷 Check out what I'm currently working on
 
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) -  (1 day ago)
@@ -18,13 +10,13 @@
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (2 weeks ago)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (1 month ago)
 
-#### 🔨 My recent Pull Requests
+#### 🌱 My latest projects
 
-- [Add signed macOS release pipeline](https://github.com/vuon9/devtoolbox/pull/106) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (1 day ago)
-- [Add URL Inspector tool](https://github.com/vuon9/devtoolbox/pull/105) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (1 day ago)
-- [Stabilize CI and cover number converter](https://github.com/vuon9/devtoolbox/pull/103) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (2 days ago)
-- [Fix editor-backed tool E2E flows](https://github.com/vuon9/devtoolbox/pull/100) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (5 days ago)
-- [fix: resolve 8 dependabot security alerts &#43; automated dependency management](https://github.com/vuon9/devtoolbox/pull/76) on [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) (2 weeks ago)
+- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - 
+- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents
+- [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) - VSCode extension which helps transform data into bulk operation with template.
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
+- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode
 
 #### 🚀 Latest releases I've contributed to
 
@@ -41,6 +33,11 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (2 weeks ago)
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS (2 weeks ago)
 - [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp  (3 weeks ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (3 weeks ago)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (3 weeks ago)
+- [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release. (3 weeks ago)
+- [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI (3 weeks ago)
+- [tkim90/fff-extension](https://github.com/tkim90/fff-extension) - IntelliJ-like CMD&#43;Shift&#43;F in Cursor / VSCode. (1 month ago)
 
 ---
 
