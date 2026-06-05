@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for Vuong Bui apps (3 days ago)
-- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) -  (6 days ago)
+- [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for Vuong Bui apps (4 days ago)
+- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) -  (1 week ago)
 - [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (1 week ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (2 weeks ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (3 weeks ago)
@@ -28,7 +28,8 @@
 
 #### ⭐ Recent Stars
 
-- [LocNguyenHuu/awesome-macOS-iCHAIT](https://github.com/LocNguyenHuu/awesome-macOS-iCHAIT) -   A curated list of awesome applications, softwares, tools and shiny things for macOS. (1 day ago)
+- [commerceguys/addressing](https://github.com/commerceguys/addressing) - A PHP addressing library, powered by CLDR and Google&#39;s address data. (1 day ago)
+- [LocNguyenHuu/awesome-macOS-iCHAIT](https://github.com/LocNguyenHuu/awesome-macOS-iCHAIT) -   A curated list of awesome applications, softwares, tools and shiny things for macOS. (2 days ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (2 weeks ago)
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers (2 weeks ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 weeks ago)
@@ -37,7 +38,6 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 month ago)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux (1 month ago)
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release. (1 month ago)
-- [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI (1 month ago)
 
 ---
 
