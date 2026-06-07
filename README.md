@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for Vuong Bui apps (5 days ago)
+- [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for Vuong Bui apps (6 days ago)
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) -  (1 week ago)
 - [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (1 week ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.12.5](https://github.com/imputnet/helium/releases/tag/0.12.5), 1 week ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.13.1](https://github.com/imputnet/helium/releases/tag/0.13.1), 1 day ago) - Private, fast, and honest web browser
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v260521.1](https://github.com/vuon9/devtoolbox/releases/tag/v260521.1), 2 weeks ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.2), 4 weeks ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.2.1-20100](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.2.1-20100), 1 month ago) - MySQL/MariaDB database management for macOS
@@ -28,9 +28,9 @@
 
 #### ⭐ Recent Stars
 
-- [commerceguys/addressing](https://github.com/commerceguys/addressing) - A PHP addressing library, powered by CLDR and Google&#39;s address data. (2 days ago)
-- [LocNguyenHuu/awesome-macOS-iCHAIT](https://github.com/LocNguyenHuu/awesome-macOS-iCHAIT) -   A curated list of awesome applications, softwares, tools and shiny things for macOS. (3 days ago)
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (2 weeks ago)
+- [commerceguys/addressing](https://github.com/commerceguys/addressing) - A PHP addressing library, powered by CLDR and Google&#39;s address data. (3 days ago)
+- [LocNguyenHuu/awesome-macOS-iCHAIT](https://github.com/LocNguyenHuu/awesome-macOS-iCHAIT) -   A curated list of awesome applications, softwares, tools and shiny things for macOS. (4 days ago)
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (3 weeks ago)
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers (3 weeks ago)
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (3 weeks ago)
 - [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS (4 weeks ago)
