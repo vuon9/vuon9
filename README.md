@@ -6,7 +6,7 @@
 
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (today)
 - [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for Vuong Bui apps (1 week ago)
-- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) -  (1 week ago)
+- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) -  (2 weeks ago)
 - [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (2 weeks ago)
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 month ago)
 
@@ -20,9 +20,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.13.2](https://github.com/imputnet/helium/releases/tag/0.13.2), 2 days ago) - Private, fast, and honest web browser
-- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([beta/5.3.0-20101](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/beta/5.3.0-20101), 3 days ago) - MySQL/MariaDB database management for macOS
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v260521.1](https://github.com/vuon9/devtoolbox/releases/tag/v260521.1), 3 weeks ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.13.3](https://github.com/imputnet/helium/releases/tag/0.13.3), 1 day ago) - Private, fast, and honest web browser
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([macos/devtoolbox/v260611.1](https://github.com/vuon9/devtoolbox/releases/tag/macos/devtoolbox/v260611.1), 1 day ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
+- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([beta/5.3.0-20101](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/beta/5.3.0-20101), 4 days ago) - MySQL/MariaDB database management for macOS
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.2), 1 month ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 5 months ago) - VSCode extension which helps transform data into bulk operation with template.
 
