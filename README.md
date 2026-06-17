@@ -2,7 +2,7 @@
 
 ---
 
-#### 👷 Check out what I'm currently working on
+#### 👷 What I'm currently working on
 
 - [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (today)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (today)
@@ -33,13 +33,12 @@
 - [commerceguys/addressing](https://github.com/commerceguys/addressing) - A PHP addressing library, powered by CLDR and Google&#39;s address data. (1 week ago)
 - [LocNguyenHuu/awesome-macOS-iCHAIT](https://github.com/LocNguyenHuu/awesome-macOS-iCHAIT) -   A curated list of awesome applications, softwares, tools and shiny things for macOS. (2 weeks ago)
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259&#43; Skills · ✨ 142&#43; Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi &amp; 17&#43; CLIs. (1 month ago)
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers (1 month ago)
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory. (1 month ago)
-- [imputnet/helium-macos](https://github.com/imputnet/helium-macos) - Helium Browser for macOS (1 month ago)
-- [bjarneo/cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp  (1 month ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 month ago)
 
 ---
+
+📫 How to reach me
+X: https://x.com/notvuon9
+L: https://www.linkedin.com/in/vuongbq
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N518O1R3) 
 
