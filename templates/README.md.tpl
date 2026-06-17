@@ -2,7 +2,7 @@
 
 ---
 
-#### 👷 Check out what I'm currently working on
+#### 👷 What I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -18,11 +18,15 @@
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 10}}
+{{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
 ---
+
+📫 How to reach me
+X: https://x.com/notvuon9
+L: https://www.linkedin.com/in/vuongbq
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N518O1R3) 
 
