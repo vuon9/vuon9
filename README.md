@@ -37,8 +37,9 @@
 ---
 
 📫 How to reach me
-X: https://x.com/notvuon9
-L: https://www.linkedin.com/in/vuongbq
+
+- X: https://x.com/notvuon9
+- LinkedIn: https://www.linkedin.com/in/vuongbq
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N518O1R3) 
 
