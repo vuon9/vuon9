@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (today)
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (today)
+- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) -  (today)
 - [vuon9/homebrew-tap](https://github.com/vuon9/homebrew-tap) - Homebrew tap for vuon9 software (5 days ago)
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (5 days ago)
-- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) -  (5 days ago)
 - [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for Vuong Bui apps (2 weeks ago)
-- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.2](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.2), 5 days ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
+- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.3](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.3), today) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
 - [imputnet/helium](https://github.com/imputnet/helium) ([0.13.3](https://github.com/imputnet/helium/releases/tag/0.13.3), 6 days ago) - Private, fast, and honest web browser
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([beta/5.3.0-20101](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/beta/5.3.0-20101), 1 week ago) - MySQL/MariaDB database management for macOS
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.2), 1 month ago) - Chrome extension that turns any YouTube video into audio‑only mode
