@@ -24,7 +24,7 @@
 
 ---
 
-📫 How to reach me (with any reason)
+📫 How to reach me
 
 - X: https://x.com/notvuon9
 - LinkedIn: https://www.linkedin.com/in/vuongbq
