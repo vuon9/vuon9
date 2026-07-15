@@ -12,7 +12,7 @@
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
-{{- if eq .Repo.Name "vuon9/unified-service-scheduler" }}
+{{- if eq .Name "vuon9/unified-service-scheduler" }}
 {{- else }}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
