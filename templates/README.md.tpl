@@ -4,11 +4,15 @@
 
 #### 👷 What I'm currently working on
 {{range recentContributions 5}}
+{{- if eq .Repo.Name "vuon9/unified-service-scheduler" }}
+{{- else }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
+{{- if eq .Repo.Name "vuon9/unified-service-scheduler" }}
+{{- else }}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
