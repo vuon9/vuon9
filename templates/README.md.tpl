@@ -8,12 +8,14 @@
 {{- else }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
+{{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
 {{- if eq .Repo.Name "vuon9/unified-service-scheduler" }}
 {{- else }}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 {{- end}}
 
 #### 🚀 Latest releases I've contributed to
