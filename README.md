@@ -8,7 +8,6 @@
 - [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for my released apps (4 weeks ago)
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) - Essential dev tools for daily tasks. Features are mostly completed, still buggy. (4 weeks ago)
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - Reusable GitHub workflows (4 weeks ago)
-- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -16,7 +15,6 @@
 - [vuon9/homebrew-tap](https://github.com/vuon9/homebrew-tap) - Homebrew tap for vuon9 software
 - [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for my released apps
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - Reusable GitHub workflows
-- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents
 
 #### 🚀 Latest releases I've contributed to
 
