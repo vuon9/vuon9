@@ -20,17 +20,17 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.14.9](https://github.com/imputnet/helium/releases/tag/0.14.9), 5 days ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.15.0](https://github.com/imputnet/helium/releases/tag/0.15.0), 1 day ago) - Private, fast, and honest web browser
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.3.1-20104](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.3.1-20104), 1 week ago) - MySQL/MariaDB database management for macOS
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.3](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.3), 1 month ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.2), 2 months ago) - Chrome extension that turns any YouTube video into audio‑only mode
-- [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 6 months ago) - VSCode extension which helps transform data into bulk operation with template.
+- [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 7 months ago) - VSCode extension which helps transform data into bulk operation with template.
 
 #### ⭐ Recent Stars
 
-- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (1 day ago)
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 days ago)
-- [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts. (2 days ago)
+- [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (2 days ago)
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (3 days ago)
+- [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts. (3 days ago)
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (2 weeks ago)
 - [php/pie](https://github.com/php/pie) - 🥧 The PHP Installer for Extensions (3 weeks ago)
 
