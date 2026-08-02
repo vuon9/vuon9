@@ -34,8 +34,3 @@
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (3 weeks ago)
 - [php/pie](https://github.com/php/pie) - 🥧 The PHP Installer for Extensions (4 weeks ago)
 
----
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N518O1R3) 
-
-
