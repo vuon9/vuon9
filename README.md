@@ -20,7 +20,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.15.1](https://github.com/imputnet/helium/releases/tag/0.15.1), 6 days ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.15.2](https://github.com/imputnet/helium/releases/tag/0.15.2), 1 day ago) - Private, fast, and honest web browser
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/5.3.1-20104](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/5.3.1-20104), 2 weeks ago) - MySQL/MariaDB database management for macOS
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.3](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.3), 1 month ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.2), 2 months ago) - Chrome extension that turns any YouTube video into audio‑only mode
