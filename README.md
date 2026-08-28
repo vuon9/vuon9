@@ -8,6 +8,7 @@
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - Reusable GitHub workflows (6 days ago)
 - [vuon9/onyx](https://github.com/vuon9/onyx) - Static website from an experience with GLM 5.2 model (2 months ago)
 - [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for my released apps (2 months ago)
+- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -15,6 +16,7 @@
 - [vuon9/homebrew-tap](https://github.com/vuon9/homebrew-tap) - Homebrew tap for vuon9 software
 - [vuon9/vuon9.github.io](https://github.com/vuon9/vuon9.github.io) - Public support pages for my released apps
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - Reusable GitHub workflows
+- [vuon9/agent-skills](https://github.com/vuon9/agent-skills) - Skills for AI agents
 
 #### 🚀 Latest releases I've contributed to
 
