@@ -17,9 +17,6 @@
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([beta/5.5.0-20110](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/beta/5.5.0-20110), 1 week ago) - MySQL/MariaDB database management for macOS
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.3](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.3), 2 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.12.2](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.12.2), 3 months ago) - Chrome extension that turns any YouTube video into audio‑only mode
-- [vuon9/bulk-ops-generator](https://github.com/vuon9/bulk-ops-generator) ([v1.5.0](https://github.com/vuon9/bulk-ops-generator/releases/tag/v1.5.0), 8 months ago) - VSCode extension which helps transform data into bulk operation with template.
-- [vuon9/postmanizer](https://github.com/vuon9/postmanizer) ([v1.4.2](https://github.com/vuon9/postmanizer/releases/tag/v1.4.2), 11 months ago) - CLI tool for transforming multiple HTTPie, Postman collections into Postman Collection v2.1.0 format.
-- [vuon9/pwgen-go](https://github.com/vuon9/pwgen-go) ([v0.0.6](https://github.com/vuon9/pwgen-go/releases/tag/v0.0.6), 4 years ago) - Random password generator practice in Go
 
 #### ⭐ Recent Stars
 
