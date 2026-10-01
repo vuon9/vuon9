@@ -12,7 +12,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.18.2](https://github.com/imputnet/helium/releases/tag/0.18.2), 1 day ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.18.2](https://github.com/imputnet/helium/releases/tag/0.18.2), 2 days ago) - Private, fast, and honest web browser
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/6.0.1-20114](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/6.0.1-20114), 1 week ago) - MySQL/MariaDB database management for macOS
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) ([v0.4.2](https://github.com/vuon9/gh-workflows/releases/tag/v0.4.2), 1 week ago) - Reusable GitHub workflows
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.3](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.3), 3 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
