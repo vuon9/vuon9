@@ -12,7 +12,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.20.1](https://github.com/imputnet/helium/releases/tag/0.20.1), 1 day ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.20.1](https://github.com/imputnet/helium/releases/tag/0.20.1), 2 days ago) - Private, fast, and honest web browser
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/6.0.3-20116](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/6.0.3-20116), 2 weeks ago) - MySQL/MariaDB database management for macOS
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.13.0](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.13.0), 2 weeks ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) ([v0.4.2](https://github.com/vuon9/gh-workflows/releases/tag/v0.4.2), 1 month ago) - Reusable GitHub workflows
@@ -20,9 +20,9 @@
 
 #### ⭐ Recent Stars
 
-- [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) - a social media for devs (4 days ago)
-- [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓ (6 days ago)
+- [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) - a social media for devs (5 days ago)
+- [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓ (1 week ago)
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. (1 week ago)
-- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (2 weeks ago)
+- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (3 weeks ago)
 - [sdras/jev-webmcp-extension](https://github.com/sdras/jev-webmcp-extension) - A small extension that demos the combination of Jev x WebMCP (1 month ago)
 
