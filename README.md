@@ -4,23 +4,23 @@
 
 #### 👷 What I'm currently working on
 
-- [vuon9/cc-mods](https://github.com/vuon9/cc-mods) - Mods for Claude Code: live panes and hooks for the CLI and desktop app (1 day ago)
-- [vuon9/vi-writing-eval](https://github.com/vuon9/vi-writing-eval) - Benchmark results for Vietnamese text generation, measured with vi-writing-eval (1 week ago)
-- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - Reusable GitHub workflows (1 week ago)
-- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (2 weeks ago)
+- [vuon9/cc-mods](https://github.com/vuon9/cc-mods) - Mods for Claude Code: live panes and hooks for the CLI and desktop app (2 days ago)
+- [vuon9/vi-writing-eval](https://github.com/vuon9/vi-writing-eval) - Benchmark results for Vietnamese text generation, measured with vi-writing-eval (2 weeks ago)
+- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - Reusable GitHub workflows (2 weeks ago)
+- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (3 weeks ago)
 - [vuon9/claude-src](https://github.com/vuon9/claude-src) - Extract and pretty-print the source of the Claude Code CLI (1 month ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.20.1](https://github.com/imputnet/helium/releases/tag/0.20.1), 2 days ago) - Private, fast, and honest web browser
-- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/6.0.3-20116](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/6.0.3-20116), 2 weeks ago) - MySQL/MariaDB database management for macOS
-- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.13.0](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.13.0), 2 weeks ago) - Chrome extension that turns any YouTube video into audio‑only mode
+- [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) ([production/6.1.0-20117](https://github.com/Sequel-Ace/Sequel-Ace/releases/tag/production/6.1.0-20117), 1 day ago) - MySQL/MariaDB database management for macOS
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.20.1](https://github.com/imputnet/helium/releases/tag/0.20.1), 3 days ago) - Private, fast, and honest web browser
+- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.13.0](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.13.0), 3 weeks ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) ([v0.4.2](https://github.com/vuon9/gh-workflows/releases/tag/v0.4.2), 1 month ago) - Reusable GitHub workflows
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.3](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.3), 4 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
 
 #### ⭐ Recent Stars
 
-- [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) - a social media for devs (5 days ago)
+- [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) - a social media for devs (6 days ago)
 - [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓ (1 week ago)
 - [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects. (1 week ago)
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 (3 weeks ago)
