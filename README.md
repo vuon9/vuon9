@@ -12,7 +12,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.20.3](https://github.com/imputnet/helium/releases/tag/0.20.3), 3 days ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.20.3](https://github.com/imputnet/helium/releases/tag/0.20.3), 4 days ago) - Private, fast, and honest web browser
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.13.0](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.13.0), 1 month ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) ([v0.4.2](https://github.com/vuon9/gh-workflows/releases/tag/v0.4.2), 1 month ago) - Reusable GitHub workflows
 - [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.3](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.3), 4 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
