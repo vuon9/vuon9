@@ -4,19 +4,19 @@
 
 #### 👷 What I'm currently working on
 
-- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - Reusable GitHub workflows (1 day ago)
-- [vuon9/kho](https://github.com/vuon9/kho) - One place for every package manager on your machine, with security checks (1 day ago)
-- [vuon9/cc-mods](https://github.com/vuon9/cc-mods) - Mods for Claude Code: live panes and hooks for the CLI and desktop app (1 week ago)
-- [vuon9/vi-writing-eval](https://github.com/vuon9/vi-writing-eval) - WIP - Benchmark results for Vietnamese text generation, measured with vi-writing-eval (3 weeks ago)
-- [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) - Chrome extension that turns any YouTube video into audio‑only mode (1 month ago)
+- [vuon9/skills](https://github.com/vuon9/skills) - Skills for agent (today)
+- [vuon9/kho](https://github.com/vuon9/kho) - One place for every package manager on your machine, with security checks (today)
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (1 day ago)
+- [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) - Reusable GitHub workflows (2 days ago)
+- [vuon9/cc-mods](https://github.com/vuon9/cc-mods) - Mods for Claude Code: live panes and hooks for the CLI and desktop app (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [vuon9/kho](https://github.com/vuon9/kho) ([v0.1.2](https://github.com/vuon9/kho/releases/tag/v0.1.2), 1 day ago) - One place for every package manager on your machine, with security checks
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.20.3](https://github.com/imputnet/helium/releases/tag/0.20.3), 5 days ago) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.21.1](https://github.com/imputnet/helium/releases/tag/0.21.1), 1 day ago) - Private, fast, and honest web browser
+- [vuon9/kho](https://github.com/vuon9/kho) ([v0.1.4](https://github.com/vuon9/kho/releases/tag/v0.1.4), 1 day ago) - One place for every package manager on your machine, with security checks
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) ([v0.24.1](https://github.com/modem-dev/hunk/releases/tag/v0.24.1), 1 week ago) - Review-first terminal diff viewer for agentic coders
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.13.0](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.13.0), 1 month ago) - Chrome extension that turns any YouTube video into audio‑only mode
 - [vuon9/gh-workflows](https://github.com/vuon9/gh-workflows) ([v0.4.2](https://github.com/vuon9/gh-workflows/releases/tag/v0.4.2), 1 month ago) - Reusable GitHub workflows
-- [vuon9/devtoolbox](https://github.com/vuon9/devtoolbox) ([v0.10.0-rc.3](https://github.com/vuon9/devtoolbox/releases/tag/v0.10.0-rc.3), 4 months ago) - Essential dev tools for daily tasks. Features are mostly completed, still buggy.
 
 #### ⭐ Recent Stars
 
