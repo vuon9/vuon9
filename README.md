@@ -4,16 +4,16 @@
 
 #### 👷 What I'm currently working on
 
-- [vuon9/skills](https://github.com/vuon9/skills) - Skills for agent (1 day ago)
-- [vuon9/kho](https://github.com/vuon9/kho) - One place for every package manager on your machine, with security checks (3 days ago)
-- [vuon9/cc-mods](https://github.com/vuon9/cc-mods) - Mods for Claude Code: live panes and hooks for the CLI and desktop app (4 days ago)
-- [vuon9/dsh-plugins](https://github.com/vuon9/dsh-plugins) - Plugins for DeepSeek Harness, one package per directory under packages. (5 days ago)
-- [vuon9/tap](https://github.com/vuon9/tap) - Homebrew tap for vuon9 softwares (1 week ago)
+- [vuon9/skills](https://github.com/vuon9/skills) - Skills for agent (today)
+- [vuon9/kho](https://github.com/vuon9/kho) - One place for every package manager on your machine, with security checks (4 days ago)
+- [vuon9/cc-mods](https://github.com/vuon9/cc-mods) - Mods for Claude Code: live panes and hooks for the CLI and desktop app (5 days ago)
+- [vuon9/dsh-plugins](https://github.com/vuon9/dsh-plugins) - Plugins for DeepSeek Harness, one package per directory under packages. (6 days ago)
+- [vuon9/tap](https://github.com/vuon9/tap) - Homebrew tap for vuon9 softwares (2 weeks ago)
 
 #### 🚀 Latest releases I've contributed to
 
-- [imputnet/helium](https://github.com/imputnet/helium) ([0.22.2](https://github.com/imputnet/helium/releases/tag/0.22.2), 1 day ago) - Private, fast, and honest web browser
-- [vuon9/kho](https://github.com/vuon9/kho) ([v0.1.18](https://github.com/vuon9/kho/releases/tag/v0.1.18), 4 days ago) - One place for every package manager on your machine, with security checks
+- [imputnet/helium](https://github.com/imputnet/helium) ([0.22.2](https://github.com/imputnet/helium/releases/tag/0.22.2), 2 days ago) - Private, fast, and honest web browser
+- [vuon9/kho](https://github.com/vuon9/kho) ([v0.1.18](https://github.com/vuon9/kho/releases/tag/v0.1.18), 5 days ago) - One place for every package manager on your machine, with security checks
 - [vuon9/dsh-plugins](https://github.com/vuon9/dsh-plugins) ([skills-pane@1.0.1](https://github.com/vuon9/dsh-plugins/releases/tag/skills-pane%401.0.1), 1 week ago) - Plugins for DeepSeek Harness, one package per directory under packages.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) ([v0.25.0](https://github.com/modem-dev/hunk/releases/tag/v0.25.0), 1 week ago) - Review-first terminal diff viewer for agentic coders
 - [vuon9/youtube-listen-mode](https://github.com/vuon9/youtube-listen-mode) ([v1.13.0](https://github.com/vuon9/youtube-listen-mode/releases/tag/v1.13.0), 1 month ago) - Chrome extension that turns any YouTube video into audio‑only mode
